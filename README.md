@@ -1,1 +1,7 @@
-# Master-Thesis-Input-data
+##### The necessity of price forecasting has received emphasis due to the expansion of aggregators and the general liberalization of European energy markets in recent years. Companies attempt to forecast revenue or price extremes to manage risk and opportunity while allocating their assets optimally. Contractual decisions made over a long time are the foundation of effective risk management. These types of decisions, however, must be backed up with a reliable price forecasting process.
+
+##### As wind and solar power become more widely adopted, there may be an imbalance between production and consumption due to their unpredictable nature. This provides an opportunity for flexible assets to maximize their profit in the balancing market. For Ørsted, which can invest in technologies such as energy storage, fuel cells, and hydropower, this opportunity could be enormously valuable.
+
+##### This thesis aims to build various models for long-term forecasting of balancing prices using explanatory variables such as day-ahead prices, generation, and consumption. Moreover, the thesis will look into long-term forecasting in the European market, using the United Kingdom as an example.
+
+##### Different models are thoroughly studied, including linear regression, k-nearest neighbours, quantile regression, and heuristic approach. On the basis of accuracy and trend capturing, the heuristic approach outperforms the other models examined. Furthermore, the heuristic technique can extract some beneficial information regarding the balancing market's price dynamics. Therefore, it can be stated that the objective of the thesis was achieved, obtaining forecasts capable of helping Ørsted invest in flexible assets, thanks to the heuristic approach.
